@@ -1,0 +1,7 @@
+﻿  LINK : D:\Codes\CUDA\FinalProj529\GPUEngine\Debug\Monte-Carlo-Engine.exe not found or not built by the last incremental link; performing full link
+  Monte-Carlo-Engine.vcxproj -> D:\Codes\CUDA\FinalProj529\GPUEngine\Debug\Monte-Carlo-Engine.exe
+  Monte-Carlo-Engine.vcxproj -> D:\Codes\CUDA\FinalProj529\GPUEngine\Debug\Monte-Carlo-Engine.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "D:\Codes\CUDA\FinalProj529\GPUEngine\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
